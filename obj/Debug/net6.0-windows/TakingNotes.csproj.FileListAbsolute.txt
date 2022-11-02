@@ -1,0 +1,17 @@
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.csproj.AssemblyReference.cache
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.Form1.resources
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.csproj.GenerateResource.cache
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.AssemblyInfoInputs.cache
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.AssemblyInfo.cs
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.csproj.CoreCompileInputs.cache
+C:\Users\CFI\Projekty\TakingNotes\bin\Debug\net6.0-windows\TakingNotes.exe
+C:\Users\CFI\Projekty\TakingNotes\bin\Debug\net6.0-windows\TakingNotes.deps.json
+C:\Users\CFI\Projekty\TakingNotes\bin\Debug\net6.0-windows\TakingNotes.runtimeconfig.json
+C:\Users\CFI\Projekty\TakingNotes\bin\Debug\net6.0-windows\TakingNotes.dll
+C:\Users\CFI\Projekty\TakingNotes\bin\Debug\net6.0-windows\TakingNotes.pdb
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.dll
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\refint\TakingNotes.dll
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.pdb
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\TakingNotes.genruntimeconfig.cache
+C:\Users\CFI\Projekty\TakingNotes\obj\Debug\net6.0-windows\ref\TakingNotes.dll
