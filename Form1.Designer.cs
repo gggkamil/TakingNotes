@@ -117,6 +117,7 @@
             this.bttRead.Location = new System.Drawing.Point(422, 325);
             this.bttRead.Name = "bttRead";
             this.bttRead.Size = new System.Drawing.Size(80, 23);
+            this.bttRead.Fixed;
             this.bttRead.TabIndex = 7;
             this.bttRead.Text = "Read";
             this.bttRead.UseVisualStyleBackColor = true;
